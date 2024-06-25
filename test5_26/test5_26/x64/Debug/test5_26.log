@@ -1,0 +1,4 @@
+﻿  test.c
+C:\C_study2025\test5_26\test5_26\test.c(377,9): warning C4566: 由通用字符名称“\u00A0”表示的字符不能在当前代码页(936)中表示出来
+C:\C_study2025\test5_26\test5_26\test.c(378,9): warning C4566: 由通用字符名称“\u00A0”表示的字符不能在当前代码页(936)中表示出来
+  test5_26.vcxproj -> C:\C_study2025\test5_26\x64\Debug\test5_26.exe
